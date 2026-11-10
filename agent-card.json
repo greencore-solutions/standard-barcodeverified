@@ -1,0 +1,13 @@
+{
+ "name": "Barcode verified — AI Product Match Verification",
+ "description": "“Barcode verified” is an open specification, version 0.1, formally titled “AI Product Match Verification”. It defines what a verified product match is, what evidence it rests on, and what a receipt for one must carry. Any artificial intelligence (AI), retailer or brand may implement it; the words “Barcode verified” are free to any conforming implementation. It answers one question for an AI agent at the moment of purchase: is the product the shopper asked for, the product the merchant is offering, and the product on the verified record, all the same barcode — and how does the agent prove it checked.",
+ "url": "https://standard-barcodeverified.org/",
+ "version": "0.1",
+ "provider": {
+  "organization": "wefetch",
+  "url": "https://wefetch.ai"
+ },
+ "documentationUrl": "https://standard-barcodeverified.org/protocol.json",
+ "capabilities": {},
+ "skills": []
+}
